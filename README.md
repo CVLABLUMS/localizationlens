@@ -9,43 +9,24 @@ This repository hosts code and experiments for our **MICCAI 2025** paper:
 **📄 Localization Lens for Improving Medical Vision–Language Models**  
 🔗 Paper (DOI): https://doi.org/10.1007/978-3-032-05114-1_33
 
-> 🚧 **Work in Progress:** We’ve currently added the initial notebook for **SmolVLM training**.  
-> We’re actively adding **additional experiments**, the **dataset used**, and an interactive **demo**.
-
 ---
 
 ## ✨ Highlights
 
 - 🩻 Research code for the MICCAI 2025 paper on **Localization Lens**
 - 🧠 Notebook for **SmolVLM training**
-- 📦 Dataset documentation + preparation steps **coming soon**
-- 🎛️ Interactive demo (inference + visualization) **coming soon**
-
----
-
-## 📂 Repository Contents
-
-### ✅ Available Now
-- **`Smol_Med_VLM.ipynb`** — Notebook for **SmolVLM training**
-
----
-
-## 🚀 Quickstart
-
-For now, the main entry point is the training notebook:
-
-1. Open **`Smol_Med_VLM.ipynb`**
-2. Run cells in order to reproduce training and evaluation steps provided inside
-
-> As we finalize more, we’ll add a structured pipeline..
+- 📦 Dataset preparation with **Segment Anything Model (SAM)**
+- 📦 Dataset preparation with **Medical SAM**
+- 📦 Dataset validation steps **coming soon**
 
 ---
 
 ## 🗺️ Roadmap
 
 - [x] Add SmolVLM training notebook
+- [x] Add SAM based augmentations
+- [x] Add Med-SAM augmentations
 - [ ] Add dataset information and preparation scripts
-- [ ] Add demo (inference + visualization)
 ---
 
 ## 📌 Paper
