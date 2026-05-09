@@ -9,6 +9,8 @@ This repository hosts code and experiments for our **MICCAI 2025** paper:
 **📄 Localization Lens for Improving Medical Vision–Language Models**  
 🔗 Paper (DOI): https://doi.org/10.1007/978-3-032-05114-1_33
 
+We have used A-100 GPU (80GB), however, the inference can be made on GPUs with 24GB.
+
 ---
 
 ## ✨ Highlights
