@@ -19,7 +19,6 @@ We have used A-100 GPU (80GB), however, the inference can be made on GPUs with 2
 - 🧠 Notebook for **SmolVLM training**
 - 📦 Dataset preparation with **Segment Anything Model (SAM)**
 - 📦 Dataset preparation with **Medical SAM**
-- 📦 Dataset validation steps **coming soon**
 
 ---
 
@@ -28,7 +27,6 @@ We have used A-100 GPU (80GB), however, the inference can be made on GPUs with 2
 - [x] Add SmolVLM training notebook
 - [x] Add SAM based augmentations
 - [x] Add Med-SAM augmentations
-- [ ] Add dataset information and preparation scripts
 ---
 
 ## 📌 Paper
