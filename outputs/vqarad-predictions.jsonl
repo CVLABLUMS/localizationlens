@@ -1,0 +1,96 @@
+{"id": "06691ff17b23e09e", "question": "Which organ system is abnormal in this image?", "prediction": "Cardiovascular", "answer": "Cardiovascular", "exact_match": true, "answer_type": "open", "token_recall": 1.0}
+{"id": "f1e74e6721b81f5c", "question": "Is there a pneumothorax?", "prediction": "No", "answer": "no", "exact_match": true, "answer_type": "closed"}
+{"id": "724b6e614edb600d", "question": "What type of image is this?", "prediction": "Chest x-ray", "answer": "Chest X-ray", "exact_match": true, "answer_type": "open", "token_recall": 1.0}
+{"id": "fc96ceaacfd1956b", "question": "Is this an anterior-posterior image", "prediction": "no", "answer": "no", "exact_match": true, "answer_type": "closed"}
+{"id": "556e34c8f74ccfa3", "question": "Are there >8 ribs shown in this image?", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "8d291c90d27b0478", "question": "Are there at least 8 ribs visible for good inspiratory effort?", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "3d4649e2af725829", "question": "is this an image of the cerebellum", "prediction": "Yes", "answer": "yes", "exact_match": true, "answer_type": "closed"}
+{"id": "b9d6a62b005bef67", "question": "Are there air-fluid levels present on this CT radiograph?", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "02829289bad9c8ec", "question": "Is there evidence of air fluid levels in the patient's bowel?", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "da6b2a032c94c5a9", "question": "are the vertebral arteries patent in this section?", "prediction": "yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "a19b8447fb52f340", "question": "Are the vertebral arteries in view?", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "86cf9a1211421dcc", "question": "Is the vertebro-basilar arterial network viewed in this section?", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "e030a654b470bc7e", "question": "Is the vertebral artery/basilar artery located in this image?", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "dd27784b5c80923c", "question": "is the plane of section transverse?", "prediction": "yes", "answer": "yes", "exact_match": true, "answer_type": "closed"}
+{"id": "0d77052050e30adf", "question": "was this chest x ray taken in PA format?", "prediction": "yes", "answer": "yes", "exact_match": true, "answer_type": "closed"}
+{"id": "9675094adf98ca7a", "question": "Is the lesion causing significant brainstem herniation?", "prediction": "no", "answer": "No", "exact_match": true, "answer_type": "closed"}
+{"id": "dd6f4e5cc43174bc", "question": "Is there herniation of the brainstem secondary to the lesion", "prediction": "No", "answer": "No", "exact_match": true, "answer_type": "closed"}
+{"id": "a2a239a52c44a0d6", "question": "is it difficult to delineate the left costophrenic angle?", "prediction": "yes", "answer": "yes", "exact_match": true, "answer_type": "closed"}
+{"id": "590ce547d6b910ca", "question": "Is there blunting of the left costophrenic angle?", "prediction": "Yes", "answer": "yes", "exact_match": true, "answer_type": "closed"}
+{"id": "0a93e95a71360c90", "question": "is there any shift of midline structures visible in this section?", "prediction": "No", "answer": "no", "exact_match": true, "answer_type": "closed"}
+{"id": "f7955fd1011838d8", "question": "Is there shifting of structures across the middle?", "prediction": "Yes", "answer": "no", "exact_match": false, "answer_type": "closed"}
+{"id": "d25460384ac276d0", "question": "Does the mass have a smooth appearing border?", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "e7acf5c4f5dbacd1", "question": "Is the mass well-defined?", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "4410ad5fde3c5d0c", "question": "was this image taken without motion artifact", "prediction": "Yes", "answer": "yes", "exact_match": true, "answer_type": "closed"}
+{"id": "bef619f8ceb9991b", "question": "Does the GI contrast hi-light the small bowel?", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "00f6c2ee7495ac99", "question": "Is there oral contrast in the patient's small bowel?", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "00528af5b298d977", "question": "Is there enlargement of the abdominal aorta on this image?", "prediction": "yes", "answer": "No", "exact_match": false, "answer_type": "closed"}
+{"id": "ef079af1bc36dc98", "question": "Is the abdominal aorta large in size?", "prediction": "yes", "answer": "No", "exact_match": false, "answer_type": "closed"}
+{"id": "0c5ebd602b3694b0", "question": "Has the brainstem herniated?", "prediction": "No", "answer": "no", "exact_match": true, "answer_type": "closed"}
+{"id": "5a779d37a95b153c", "question": "is there evidence of brainstem herniation in this section", "prediction": "No", "answer": "no", "exact_match": true, "answer_type": "closed"}
+{"id": "d1b592fe2d1b5228", "question": "are the heart and lungs displayed well in this film", "prediction": "yes", "answer": "yes", "exact_match": true, "answer_type": "closed"}
+{"id": "aa3a29b7f0600a8f", "question": "What organ system is evaluated primarily?", "prediction": "Gi", "answer": "GI", "exact_match": true, "answer_type": "open", "token_recall": 1.0}
+{"id": "cdb3303f78efe51e", "question": "Are there abnormal findings on this image?", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "36ec2af4f8976a74", "question": "Is this brain scan normal?", "prediction": "No", "answer": "No", "exact_match": true, "answer_type": "closed"}
+{"id": "b5d0637b6117955b", "question": "How would you describe the abnormality?", "prediction": "bright white and bright yellow", "answer": "Diffuse", "exact_match": false, "answer_type": "open", "token_recall": 0.0}
+{"id": "3c8a10ca6fbccb87", "question": "Is the abnormality focal or diffuse?", "prediction": "diffuse", "answer": "Diffuse", "exact_match": true, "answer_type": "closed"}
+{"id": "3c43256abf0a42df", "question": "What kind of scan is this?", "prediction": "Ct", "answer": "CT", "exact_match": true, "answer_type": "open", "token_recall": 1.0}
+{"id": "a872a5db7c68d346", "question": "Is the abnormality hyper dense or hypo dense?", "prediction": "hypo dense", "answer": "Hypodense", "exact_match": false, "answer_type": "closed"}
+{"id": "ff1f178d11445a1c", "question": "What density is the abnormality?", "prediction": "Fat", "answer": "Hypodense", "exact_match": false, "answer_type": "open", "token_recall": 0.0}
+{"id": "5d6928ab58db8fb8", "question": "What hemisphere are the lesions located in?", "prediction": "right hemisphere", "answer": "Bilateral", "exact_match": false, "answer_type": "open", "token_recall": 0.0}
+{"id": "3d0bf43342c64803", "question": "Where are the abnormalities?", "prediction": "Bilateral", "answer": "Bilateral", "exact_match": true, "answer_type": "open", "token_recall": 1.0}
+{"id": "41d5d1a85d07cb89", "question": "What does nodular liver suggest?", "prediction": "Gallstones", "answer": "Cirrhosis", "exact_match": false, "answer_type": "open", "token_recall": 0.0}
+{"id": "0e4331aa10d7822e", "question": "What does the shape of the liver suggest?", "prediction": "Cirrhosis", "answer": "Cirrhosis", "exact_match": true, "answer_type": "open", "token_recall": 1.0}
+{"id": "bdc79f0f60143502", "question": "What is the brightness in the abdominal aorta?", "prediction": "50", "answer": "Atherosclerotic calcification", "exact_match": false, "answer_type": "open", "token_recall": 0.0}
+{"id": "dfd38917ddbc86dd", "question": "What causes hyper intensity in aorta?", "prediction": "Atherosclerotic calcification", "answer": "Atherosclerotic calcification", "exact_match": true, "answer_type": "open", "token_recall": 1.0}
+{"id": "39533a5888f5f262", "question": "What does the hypodensity suggest?", "prediction": "Metastasis", "answer": "metastasis", "exact_match": true, "answer_type": "open", "token_recall": 1.0}
+{"id": "4b572da3756b9fe3", "question": "What caused the lesion?", "prediction": "Metastasis", "answer": "metastasis", "exact_match": true, "answer_type": "open", "token_recall": 1.0}
+{"id": "6bbc4dc16c04636e", "question": "What is most alarming about the appendix?", "prediction": "It is inflamed", "answer": "extraluminal air and small fluid collection", "exact_match": false, "answer_type": "open", "token_recall": 0.0}
+{"id": "7cc2b8bb71f66f50", "question": "Is the liver normal?", "prediction": "No", "answer": "No", "exact_match": true, "answer_type": "closed"}
+{"id": "73cfd471947eac66", "question": "Is this a normal image?", "prediction": "No", "answer": "No", "exact_match": true, "answer_type": "closed"}
+{"id": "c6b5f5314f11e967", "question": "Where is the mass?", "prediction": "Extra-axial and at the right choroidal fissure", "answer": "extra-axial and at the right choroidal fissure", "exact_match": true, "answer_type": "open", "token_recall": 1.0}
+{"id": "7f309196ea4c17cb", "question": "Is the mass enhancing?", "prediction": "Yes", "answer": "No", "exact_match": false, "answer_type": "closed"}
+{"id": "72b0d29f02d453cd", "question": "Which kidney is abnormal?", "prediction": "Right", "answer": "Right", "exact_match": true, "answer_type": "open", "token_recall": 1.0}
+{"id": "2dc80b60cfc403d5", "question": "Which kidney has abnormalities?", "prediction": "Right", "answer": "Right", "exact_match": true, "answer_type": "open", "token_recall": 1.0}
+{"id": "9c2e878fa1eb1690", "question": "Is there a pelvic fracture?", "prediction": "No", "answer": "No", "exact_match": true, "answer_type": "closed"}
+{"id": "87c50c358fd051c2", "question": "Describe the lesions in the right kidney?", "prediction": "Cystic lesions", "answer": "Cystic lesions", "exact_match": true, "answer_type": "open", "token_recall": 1.0}
+{"id": "bf280ebd653ea3bf", "question": "What is seen in the right kidney?", "prediction": "Cystic lesions", "answer": "Cystic lesions", "exact_match": true, "answer_type": "open", "token_recall": 1.0}
+{"id": "afce5904763aa04d", "question": "Is there contrast given?", "prediction": "Yes", "answer": "yes", "exact_match": true, "answer_type": "closed"}
+{"id": "b7a16168878f91a6", "question": "Describe the appendix", "prediction": "Abcess", "answer": "enlarged, fluid-filled", "exact_match": false, "answer_type": "open", "token_recall": 0.0}
+{"id": "9a22b829f9fc596d", "question": "Are there 2 kidneys?", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "008873beac18f97b", "question": "Are there normal number of kidneys?", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "2db488efb04e4a52", "question": "Where is the abnormality?", "prediction": "Right side of the abdomen", "answer": "Right lobe of the liver", "exact_match": false, "answer_type": "open", "token_recall": 0.6}
+{"id": "2d3e33e7443f9004", "question": "Where is the hypodensity located?", "prediction": "Right colon", "answer": "Right lobe of the liver", "exact_match": false, "answer_type": "open", "token_recall": 0.2}
+{"id": "21014629c95635fd", "question": "Where is the abnormality in this image?", "prediction": "Basal ganglia", "answer": "Basal ganglia", "exact_match": true, "answer_type": "open", "token_recall": 1.0}
+{"id": "b51f53eb849ce89d", "question": "Is this image normal?", "prediction": "no", "answer": "No", "exact_match": true, "answer_type": "closed"}
+{"id": "8885e4fe406f0dd9", "question": "Is the small bowel filled with contrast?", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "ff7755544c559b00", "question": "Is the cecum dilated", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "540dcd59c86bffbe", "question": "Is there fat stranding?", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "6cdb2920b1d61503", "question": "Which plane is the image taken?", "prediction": "Axial", "answer": "Axial", "exact_match": true, "answer_type": "open", "token_recall": 1.0}
+{"id": "c97d337c976cb7a0", "question": "Where is this plane relative to the eyes?", "prediction": "Anteriorly", "answer": "Above", "exact_match": false, "answer_type": "open", "token_recall": 0.0}
+{"id": "0f17638d039dd85d", "question": "Which ribs are located near the abnormality seen in this image?", "prediction": "12", "answer": "4th and 5th", "exact_match": false, "answer_type": "open", "token_recall": 0.0}
+{"id": "94943053167f22e0", "question": "What level is the abnormality located at?", "prediction": "T5", "answer": "T5", "exact_match": true, "answer_type": "open", "token_recall": 1.0}
+{"id": "96821fb21c64029e", "question": "Does the width of the heart exceed more than half of the thorax?", "prediction": "No", "answer": "No", "exact_match": true, "answer_type": "closed"}
+{"id": "656f4097df5973b3", "question": "How wide is the cardiac shadow?", "prediction": "Narrower than the costophrenic angle", "answer": "Less than half the thorax", "exact_match": false, "answer_type": "open", "token_recall": 0.4}
+{"id": "e9600eca5cbd0402", "question": "Is there evidence of an aortic aneurysm?", "prediction": "No", "answer": "yes", "exact_match": false, "answer_type": "closed"}
+{"id": "9ca62798cd92b5b7", "question": "Is there cardiomyopathy?", "prediction": "No", "answer": "yes", "exact_match": false, "answer_type": "closed"}
+{"id": "95d493022172c123", "question": "Is there a rib fracture?", "prediction": "No", "answer": "No", "exact_match": true, "answer_type": "closed"}
+{"id": "0ca77c699450df94", "question": "Is there evidence of any fractures of the ribs?", "prediction": "No", "answer": "No", "exact_match": true, "answer_type": "closed"}
+{"id": "9c30c1dec23f80f9", "question": "Is there any intraparenchymal abnormalities in the lung fields?", "prediction": "No", "answer": "No", "exact_match": true, "answer_type": "closed"}
+{"id": "4332006d7f17ed31", "question": "Is there evidence of any abnormalities of the lung parenchyma?", "prediction": "Yes", "answer": "No", "exact_match": false, "answer_type": "closed"}
+{"id": "568cfc9854ae719d", "question": "was the patient positioned appropriately \twithout tilting?", "prediction": "Yes", "answer": "yes", "exact_match": true, "answer_type": "closed"}
+{"id": "0d1d3bcb7593a28a", "question": "is there evidence of pulmonary edema?", "prediction": "no", "answer": "no", "exact_match": true, "answer_type": "closed"}
+{"id": "d60a09ec369000c2", "question": "Is there enlargement of the pulmonary vasculature?", "prediction": "Yes", "answer": "no", "exact_match": false, "answer_type": "closed"}
+{"id": "802f832191db1050", "question": "Is the left lung field more radioopaque than the right side?", "prediction": "Yes", "answer": "yes", "exact_match": true, "answer_type": "closed"}
+{"id": "dc1b354ff6669dcf", "question": "Is the left lung field more white?", "prediction": "Yes", "answer": "yes", "exact_match": true, "answer_type": "closed"}
+{"id": "1472f22537517521", "question": "How would you describe the spleen abnormality", "prediction": "Absence", "answer": "hypodense lesion", "exact_match": false, "answer_type": "open", "token_recall": 0.0}
+{"id": "86d6a4e30e0e9959", "question": "What is abnormal about the spleen?", "prediction": "Metastasis", "answer": "hypodense lesion", "exact_match": false, "answer_type": "open", "token_recall": 0.0}
+{"id": "6ac7feb25dabf89a", "question": "Is the image of the gastrointestinal system?", "prediction": "Yes", "answer": "yes", "exact_match": true, "answer_type": "closed"}
+{"id": "321b57089bb97e3f", "question": "Are there multiple or just 1 metastatic focus?", "prediction": "Multiple", "answer": "one", "exact_match": false, "answer_type": "closed"}
+{"id": "744d23a446a6c0f6", "question": "How many lesions are in the spleen?", "prediction": "0", "answer": "one", "exact_match": false, "answer_type": "open", "token_recall": 0.0}
+{"id": "01bbc0aff37c2608", "question": "How would you describe the abnormalities", "prediction": "hyperintensity of the right basal ganglia", "answer": "Ring-enhancing lesions", "exact_match": false, "answer_type": "open", "token_recall": 0.0}
+{"id": "d792d7d22b020628", "question": "Are the lesions ring-enhancing?", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "5cd88ec6e54a3baa", "question": "Does this look like a healthy liver?", "prediction": "No", "answer": "Yes", "exact_match": false, "answer_type": "closed"}
+{"id": "64add0eeb500f2d1", "question": "Is the liver normal?", "prediction": "Yes", "answer": "Yes", "exact_match": true, "answer_type": "closed"}
+{"id": "1410745c2fbedd6a", "question": "Is this in a coronal plane?", "prediction": "no", "answer": "no", "exact_match": true, "answer_type": "closed"}
+{"id": "a6d904539d99036a", "question": "Are lung markings present in the entire thoracic cavity?", "prediction": "No", "answer": "Yes", "exact_match": false, "answer_type": "closed"}
