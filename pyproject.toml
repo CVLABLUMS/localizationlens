@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "localization-lens"
+version = "0.1.0"
+description = "Reproducible Localization Lens pipeline for medical VQA datasets"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "datasets>=3.0",
+  "numpy>=1.26",
+  "Pillow>=10.0",
+]
+
+[project.optional-dependencies]
+sam = ["torch>=2.2", "transformers>=5.0", "accelerate>=1.2"]
+train = ["torch>=2.2", "transformers>=5.0", "accelerate>=1.2", "peft>=0.14"]
+dev = ["pytest>=8.0"]
+notebooks = ["jupyterlab>=4.0", "ipykernel>=6.0"]
+
+[project.scripts]
+prepare-vqarad = "localization_lens.data:main"
+make-sam-augs = "localization_lens.sam_augment:main"
+train-lens = "localization_lens.training:main"
+infer-lens = "localization_lens.inference:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
